@@ -1,1 +1,1 @@
-# freeCodeCamp-Responsive-Web-Design-course---typography-nutrition-label
+# freeCodeCamp-Responsive-Web-Design-course-typography-nutrition-label
